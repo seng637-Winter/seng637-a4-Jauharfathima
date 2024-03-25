@@ -15,25 +15,25 @@
 
 # 3. Report all the statistics and the mutation score for each test class
 
-# Statistics and Mutation score for DataUtilities test classes before adding new text cases
+# * Statistics and Mutation score for DataUtilities test classes before updation *
 
 * (1) DataUtilitiesCalculateColumnTotal
 
-# (2) DataUtilitiesCalculateColumnTotal2
+* (2) DataUtilitiesCalculateColumnTotal2
 
-# (3) DataUtilitiesClone
+* (3) DataUtilitiesClone
 
-# (4) DataUtilitiesCreateNumberArray
+* (4) DataUtilitiesCreateNumberArray
 
-# (5) DataUtilitiesCreateNumberArray2D
+* (5) DataUtilitiesCreateNumberArray2D
 
-# (6) DataUtilitiesCumulativePercentageTest
+* (6) DataUtilitiesCumulativePercentageTest
 
-# (7) DataUtilitiesEqual
+* (7) DataUtilitiesEqual
 
-# (8) DataUtilitiesTest1
+* (8) DataUtilitiesTest1
 
-# (9) DataUtilitiesTest2
+* (9) DataUtilitiesTest2
 
 # Analysis drawn on the effectiveness of each of the test classes
 
