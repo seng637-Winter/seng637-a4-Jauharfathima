@@ -13,8 +13,8 @@
 
 # Analysis of 10 Mutants of the Range class 
 
-3. Report all the statistics and the mutation score for each test class
-(1) DataUtilitiesCalculateColumnTotal
+**3. Report all the statistics and the mutation score for each test class**
+**(1) DataUtilitiesCalculateColumnTotal**
 
 # Analysis drawn on the effectiveness of each of the test classes
 
