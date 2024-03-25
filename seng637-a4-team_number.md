@@ -15,7 +15,9 @@
 
 # 3. Report all the statistics and the mutation score for each test class
 
-# (1) DataUtilitiesCalculateColumnTotal
+# Statistics and Mutation score for DataUtilities test classes before adding new text cases
+
+* (1) DataUtilitiesCalculateColumnTotal
 
 # (2) DataUtilitiesCalculateColumnTotal2
 
