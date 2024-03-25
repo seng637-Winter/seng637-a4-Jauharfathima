@@ -40,24 +40,24 @@
 
 | Test SUT       |  Updation  |  Line Coverage   |  Mutation Coverage   |  Test Strength   |
 | -------------- | -----------| -----------------| ---------------------| -----------------| 
-| CalculateColumnTotal  |  Before    |              |               |                  |
-|                       |  After     |              |               |                  |     
+| CalculateColumnTotal  |  Before    | 95% (20/21)  | 47% (43/92)   | 47% (43/92)      |
+|                       |  After     | 100% (25/25) | 58% (67/116)  | 58% (67/116)     |     
 | CalculateColumnTotal2 | Before     | 100% (15/15) | 39% (26/66)   | 39% (26/66)      |    
 |                       |  After     | 100% (60/60) | 55% (192/346) | 55% (192/346)    |  
 | Clone                 |  Before    | 96% (23/24)  | 30% (130/428)   | 30% (130/428)   |
 |                       |  After     | 100% (92/92) | 41% (498/1224)  | 41% (498/1224)  | 
-| CreateNumberArray     |  Before    |              |                      |                  |
+| CreateNumberArray     |  Before    | 92% (11/12)  | 72% (169/234)   | 72% (169/234)|
 |                       |  After     |              |                      |                  | 
 | CreateNumberArray2D   |  Before    | 95% (19/20)  | 69% (204/296)   |  69% (204/296)  |
 |                       |  After     | 99% (95/96)  | 81% (1257/1554) |  81% (1257/1554)| 
 | CumulativePercentageTest |  Before    |            |                    |                  |
 |                          |  After     |            |                    |                  | 
-| Equal                    |  Before    |            |                    |                  |
-|                          |  After     |            |                    |                  | 
-| Test1                    |  Before    |            |                    |                  |
-|                          |  After     |            |                    |                  | 
-| Test2                    |  Before    |            |                    |                  |
-|                          |  After     |            |                    |                  | 
+| Equal                    |  Before    | 100% (41/41) | 45% (945/2079)   | 45% (945/2079)   |
+|                          |  After     | 100% (99/99) | 74% (3215/4337)  | 74% (3215/4337)  | 
+| Test1                    |  Before    | 100% (28/28) | 45% (61/135)   | 45% (61/135)  |
+|                          |  After     | 100% (64/64) | 53% (205/387)  | 53% (205/387) | 
+| Test2                    |  Before    | 98% (59/60)  | 55% (260/471)  | 55% (260/470) |
+|                          |  After     | 97% (36/37)  | 65% (180/278)  | 65% (180/277) | 
 
 # A discussion on the effect of equivalent mutants on mutation score accuracy
 
