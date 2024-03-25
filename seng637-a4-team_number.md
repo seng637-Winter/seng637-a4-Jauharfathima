@@ -17,6 +17,22 @@
 
 # (1) DataUtilitiesCalculateColumnTotal
 
+# (2) DataUtilitiesCalculateColumnTotal2
+
+# (3) DataUtilitiesClone
+
+# (4) DataUtilitiesCreateNumberArray
+
+# (5) DataUtilitiesCreateNumberArray2D
+
+# (6) DataUtilitiesCumulativePercentageTest
+
+# (7) DataUtilitiesEqual
+
+# (8) DataUtilitiesTest1
+
+# (9) DataUtilitiesTest2
+
 # Analysis drawn on the effectiveness of each of the test classes
 
 # A discussion on the effect of equivalent mutants on mutation score accuracy
