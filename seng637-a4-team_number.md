@@ -35,7 +35,29 @@
 
 * (9) DataUtilitiesTest2
 
-# Analysis drawn on the effectiveness of each of the test classes
+# 4. Analysis drawn on the effectiveness of each of the test classes
+
+
+| Test SUT       |  Updation  |  Line Coverage   |  Mutation Coverage   |  Test Strength   |
+| -------------- | -----------| -----------------| ---------------------| -----------------| 
+| CalculateColumnTotal  |  Before    |                  |                      |                  |
+|                       |  After     |                  |                      |                  |     
+| CalculateColumnTotal2 | Before     |                  |                      |                  |    
+|                       |  After     |                  |                      |                  |  
+| Clone                 |  Before    |                  |                      |                  |
+|                       |  After     |                  |                      |                  | 
+| CreateNumberArray     |  Before    |                  |                      |                  |
+|                       |  After     |                  |                      |                  | 
+| CreateNumberArray2D   |  Before    |                  |                      |                  |
+|                       |  After     |                  |                      |                  | 
+| CumulativePercentageTest |  Before    |                  |                      |                  |
+|                          |  After     |                  |                      |                  | 
+| Equal                    |  Before    |                  |                      |                  |
+|                          |  After     |                  |                      |                  | 
+| Test1                    |  Before    |                  |                      |                  |
+|                          |  After     |                  |                      |                  | 
+| Test2                    |  Before    |                  |                      |                  |
+|                          |  After     |                  |                      |                  | 
 
 # A discussion on the effect of equivalent mutants on mutation score accuracy
 
