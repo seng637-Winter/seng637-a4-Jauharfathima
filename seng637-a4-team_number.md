@@ -15,7 +15,7 @@
 
 # 3. Report all the statistics and the mutation score for each test class
 
-# * Statistics and Mutation score for DataUtilities test classes before updation *
+# *Statistics and Mutation score for DataUtilities test classes before updation*
 
 * (1) DataUtilitiesCalculateColumnTotal
 
