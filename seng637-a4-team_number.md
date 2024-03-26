@@ -65,6 +65,10 @@
 
 # A discussion on the effect of equivalent mutants on mutation score accuracy
 
+- In Part-1 of this Assignmet we have created mutants (faulty versions) of the SUIT, and then run the test suite against the mutants to determine if their test suite can accurately Kill the introduced mutants.
+- The more mutants killed with resspect to the introduced mutants gives us the Mutation score percentage.
+- A test SUIT with higher Mutation score after introducing equivalent mutants is said to have higher ability to detect coding errors.
+
 # A discussion of what could have been done to improve the mutation score of the test suites
 
 # Why do we need mutation testing? Advantages and disadvantages of mutation testing
