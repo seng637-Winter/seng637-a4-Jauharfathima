@@ -59,6 +59,9 @@
 | Test2                    |  Before    | 98% (59/60)  | 55% (260/471)  | 55% (260/470) |
 |                          |  After     | 97% (36/37)  | 65% (180/278)  | 65% (180/277) | 
 
+From the above table we can analze that the Statistics of Line Coverage, Mutation Coverage and Test Strength.
+It is seen that the Mutation test scores of the DataUtilities Test classes have increased consistently after adding new test cases. When compared to the intial values before adding mutants the new Test suites have improved in overall quality.
+
 # A discussion on the effect of equivalent mutants on mutation score accuracy
 
 # A discussion of what could have been done to improve the mutation score of the test suites
