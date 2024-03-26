@@ -35,6 +35,26 @@
 
 * (9) DataUtilitiesTest2
 
+# *Statistics and Mutation score for DataUtilities test classes after updation*
+
+* (1) DataUtilitiesCalculateColumnTotal
+
+* (2) DataUtilitiesCalculateColumnTotal2
+
+* (3) DataUtilitiesClone
+
+* (4) DataUtilitiesCreateNumberArray
+
+* (5) DataUtilitiesCreateNumberArray2D
+
+* (6) DataUtilitiesCumulativePercentageTest
+
+* (7) DataUtilitiesEqual
+
+* (8) DataUtilitiesTest1
+
+* (9) DataUtilitiesTest2
+
 # 4. Analysis drawn on the effectiveness of each of the test classes
 
 
